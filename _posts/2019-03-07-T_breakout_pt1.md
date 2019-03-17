@@ -11,6 +11,6 @@ Once the scanner lost a couple channels, we started looking into repair/replacem
 
 We made a list of the features we would like to have:
 
-*10 channels to read thermocouples, either simultaneously or sequentially
-*datalogging capability, preferably in a way that it 
+* 10 channels to read thermocouples, either simultaneously or sequentially
+* datalogging capability, preferably in a way that it 
 
