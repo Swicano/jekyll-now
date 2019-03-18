@@ -7,8 +7,8 @@ Some labmates of mine are in a tricky situation: for their project on melt elect
 
 
 <figure>
-  <img src="{{site.baseurl}}/images/T_breakout/Omega_dp1001.jpg" alt="Omega DP1001" width="200"/>
-  <figcaption> *The old Omega temperature scanner with 3 channels left.* </figcaption>
+  <img src="{{site.baseurl}}/images/T_breakout/Omega_dp1001.jpg" alt="Omega DP1001" align="center" width="200"/>
+  <figcaption> _The old Omega temperature scanner with 3 channels left._ </figcaption>
 </figure>
 
 
