@@ -9,7 +9,7 @@ Some labmates of mine are in a tricky situation: for their project on melt elect
 
 <p align="center">
   <img src="{{site.baseurl}}/images/T_breakout/Omega_dp1001.jpg" alt="Omega DP1001" align="center" width="500"/>
-  <p align="center">_The old Omega temperature scanner with 3 channels left._ <p align="center">
+  <p align="center"> The old Omega temperature scanner with 3 channels left. </p>
 </p>
 
 
