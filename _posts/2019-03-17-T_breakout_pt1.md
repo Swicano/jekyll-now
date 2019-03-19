@@ -51,7 +51,10 @@ With all the technical requirements met, and my labmates tasked with writing the
 In future parts I'll discuss my purely unofficial involvement thereafter where I design my first circuitboard to connect the breakouts to the Adalogger, create a 3D printed holder to hold this hardware, and finally (hopefully) solve the original problem of high voltage pulses killing our electronics.
 
 Part 2: circuit board goes here
+
 Part 3: 3D printed case goes here
+
 Part 4: A shocking finale might go here
+
 
 The whole project can be viewed at https://github.com/Swicano/T_Breakout.
