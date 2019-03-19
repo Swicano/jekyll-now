@@ -3,7 +3,7 @@ layout: post
 title: Temperature Scanner Replacement Project Part 1
 ---
 
-The whole project can be viewed in (this repository)[https://github.com/Swicano/T_Breakout].
+The whole project can be viewed in [this repository](https://github.com/Swicano/T_Breakout).
 
 Some labmates of mine are in a tricky situation: for their research on melt electrospinning they use thermocouples to measure the temperature inside and around a molten pool of polymer within inches (10 cm) of a metal plate at -40,000 Volts (the *melt* and *electro-* parts of melt electrospinning, respectively). The problem is that sometimes, just sometimes, all those kilovolts dont stay 10 cm away, they find the thermocouple wires and **zap** all the way to the temperature scanner. The result is much less catastrophic than one would expect, but still permanent death for that channel of the temperature scanner. Luckily our scanner had 10 channels to start with!
 
@@ -57,10 +57,10 @@ Part 3: 3D printed case goes here
 Part 4: A shocking finale might go here
 
 
-The whole project can be viewed in (this repository)[https://github.com/Swicano/T_Breakout].
+The whole project can be viewed in [this repository](https://github.com/Swicano/T_Breakout).
 
 
 <p align="center">
-  <img src="{{site.baseurl}}swicano.github.io/images/T_breakout/Complete1.jpg" alt="Complete1" align="center" width="500" />
+  <img src="{{site.baseurl}}/images/T_breakout/Complete1.jpg" alt="Complete1" align="center" width="500" />
   <p align="center"> A Sneak Peek at the current state of the project </p>
 </p>
