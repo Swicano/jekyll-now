@@ -8,8 +8,9 @@ The whole project can be viewed in [this repository](https://github.com/Swicano/
 paragraph 1
 
 <p align="center">
-  <img src="{{site.baseurl}}/images/T_breakout2/XXXXXXXXXXXXX.jpg" alt="ALT TEXT" align="center" width="500"/>
-  <p align="center"> CAPTION CAPTION CAPTION CAPTION. </p>
+  <img src="{{site.baseurl}}/images/T_breakout2/layout1.png" alt="Ideation starting point" align="left" width="300"/>
+  <img src="{{site.baseurl}}/images/T_breakout2/layout1.png" alt="Ideation starting point" align="right" width="300"/>
+  <p align="center"> At minimum 6 connections are necessary. </p>
 </p>
 
 
