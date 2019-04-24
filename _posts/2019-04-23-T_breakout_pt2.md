@@ -8,8 +8,8 @@ The whole project can be viewed in [this repository](https://github.com/Swicano/
 paragraph 1
 
 <p align="center">
-  <img src="{{site.baseurl}}/images/T_breakout2/layout1.png" alt="Ideation starting point" align="left" width="300"/>
-  <img src="{{site.baseurl}}/images/T_breakout2/layout1.png" alt="Ideation starting point" align="right" width="300"/>
+  <p align="left"><img src="{{site.baseurl}}/images/T_breakout2/layout1.png" alt="Ideation starting point" align="left" width="300"/></p>
+  <p align="right"><img src="{{site.baseurl}}/images/T_breakout2/layout1.png" alt="Ideation starting point" align="right" width="300"/></p>
   <p align="center"> At minimum 6 connections are necessary. </p>
 </p>
 
